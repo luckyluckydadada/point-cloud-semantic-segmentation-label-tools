@@ -1,0 +1,23 @@
+{
+  "configuration": {
+    "images-folder": "",
+    "internal-folder": "",
+    "demo-mode": false
+  },
+  "sets-of-classes": [
+    {
+      "name": "One Sight", "objects": [
+        {"label": "VOID", "color": "#CFCFCF"},
+        {"label": "Wall", "color": "#66669C", "icon": "Wall"},
+        {"label": "Floor", "color": "#510051", "icon": "Drag"},
+        {"label": "Column", "color": "#DCDC00", "icon": "SignDirection"},
+        {"label": "Door", "color": "#804080", "icon": "Road"},
+        {"label": "Beam", "color": "#BE9999", "icon": "Gate"},
+        {"label": "Window", "color": "#FF8800", "icon": "BorderNoneVariant"},
+        {"label": "celing", "color": "#C0AE89", "icon": "BlurLinear"}
+
+    ]
+    }
+  ]
+}
+
